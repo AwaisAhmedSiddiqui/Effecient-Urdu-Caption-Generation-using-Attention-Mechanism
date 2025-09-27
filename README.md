@@ -4,7 +4,7 @@
 <h2> Dataset </h2>
 <p>As our main task is caption generation on images in Urdu language. There was no publicaly available dataset for this task. Then we decided to translate a popular image captioning dataset called flickr8k dataset from scratch as available translators were not suffeciently accurate especially on idioms and context understanding. Flickr8k dataset has 8,000 images, and for each image there are 5 captions in english. We selected about 700 images with 3500 captions with similar context to translate into Urdu. The selected captions are related to a "Man" who is doing different activities such as Water-boarding, Snow-boarding and biking.</p>
 <br /> <img src="images/data.jpg" alt="Sample from translated dataset" > 
-<br />Original Flickr8k Dataset: <a href="[https://www.kaggle.com/shadabhussain/flickr8k](https://www.kaggle.com/datasets/shadabhussain/flickr8k)](https://www.kaggle.com/datasets/shadabhussain/flickr8k)">Download Here</a>
+<br />Original Flickr8k Dataset: <a href="(https://www.kaggle.com/datasets/shadabhussain/flickr8k)">Download Here</a>
 <br />Translated Captions in Urdu: <a href="https://drive.google.com/file/d/1XtEPGKVOQKzWRdW0_hX_TiYIpLiG3XY9/view?usp=sharing">Download Here</a>
 <hr />
 <h2> Model </h2>
