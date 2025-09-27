@@ -15,6 +15,5 @@ Model consist of Encoder and a Decoder architecture. Encoder part uses a CNN (We
 <h2>Generated Captions</h2><img src="images/generated.png" alt="Model" > 
 <h2>Results</h2>
 <p>We used BLEU score as evaluation matrix to evaluate performance of model.</p></br><img src="images/results.png" alt="Results" > 
-<h4>Contribution</h4>
-Members of our group are My self <b>Hafiz Muhammad Abdullah Zia</b>, Inam Ilahi, Armughan Ahmed, Rauf Tabassum, and Ahtazaz Ahsan
+
 
